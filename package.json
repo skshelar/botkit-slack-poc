@@ -1,4 +1,4 @@
 "scripts": {
-  "start": "node server.js"
+  "start": "node slack_hello_bot.js"
 },
-"main": "server.js"
+"main": "slack_hello_bot.js"
