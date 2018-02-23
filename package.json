@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node slack_hello_bot"
+	"start": "token='xoxb-309898918064-rmYtB0ugNBkekkk4mT1fXAfn' node slack_hello_bot"
   },
   "author": "",
   "license": "ISC"
