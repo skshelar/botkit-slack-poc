@@ -2,7 +2,7 @@
   "name": "bot-slack-node",
   "version": "1.0.0",
   "description": "",
-  "main": "slack_hello_bot.js",
+  "main": "slack_hello_bot",
   "dependencies": {
     "botkit": "^0.6.9"
   },
